@@ -98,3 +98,5 @@ C:\Users\Administrateur\Desktop\csharp\banque-csharp\obj\Debug\netcoreapp3.0\ban
 C:\Users\Administrateur\Desktop\csharp\banque-csharp\obj\Debug\netcoreapp3.0\banque-csharp.csproj.CopyComplete
 C:\Users\Administrateur\Desktop\csharp\banque-csharp\obj\Debug\netcoreapp3.0\banque-csharp.dll
 C:\Users\Administrateur\Desktop\csharp\banque-csharp\obj\Debug\netcoreapp3.0\banque-csharp.pdb
+C:\Users\Administrateur\Desktop\csharp\banque-csharp\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.TestPlatform.Extension.NUnit.Xml.TestLogger.dll
+C:\Users\Administrateur\Desktop\csharp\banque-csharp\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.TestPlatform.Extension.NUnit.Xml.TestAdapter.dll
