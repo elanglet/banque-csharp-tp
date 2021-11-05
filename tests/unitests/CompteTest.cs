@@ -20,7 +20,7 @@ namespace banque_simple
             // On appelle la méthode à tester (la propriété...)
             long numero = compte.Numero;
             // On compare la valeur obtenue avec la valeur attendue
-            Assert.AreEqual(456236, numero);
+            Assert.AreEqual(45236, numero);
 
             // Assert.IsTrue(456236 == numero);
         }
